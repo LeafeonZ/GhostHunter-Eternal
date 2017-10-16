@@ -452,7 +452,8 @@ PlayerSettings:
   XboxOneAllowedProductIds: []
   XboxOnePersistentLocalStorageSize: 0
   vrEditorSettings: {}
-  cloudServicesEnabled: {}
+  cloudServicesEnabled:
+    UNet: 1
   cloudProjectId: 8fe08f37-c9e1-4774-9a32-93e9a7cd4f84
   projectName: GhostHunterEternal
   organizationId: leafeonz
